@@ -1,0 +1,30 @@
+* 3b9acb2 Add lesson on print() function in Python
+*   65d29cd Merge pull request #4 from JorgenVerikov/anggota5/tests-laporan
+|\  
+| * e089326 Mengubah status anggota 5 / Tubagus dari Belum -> Selesai
+| * 3d8eaf0 Menambahkan docs/laporan.md
+| * 42f9246 Menambahkan tests/test_main.py dan menghapus placeholder tess
+* | da1fe52 Update and rename tes to contoh.py
+* | 12a4a75 Fix spelling of Anggota 5's name in README
+|/  
+* 0ab0bb4 Update member details and task status in README
+*   0c4cf69 Merge pull request #3 from zeetaana/patch-2
+|\  
+| * 76a76a9 Expand materi.md with print() function examples
+* | 9a3c633 Name Addition
+|/  
+* 1697ac4 Placeholder
+* 51fb038 Rearrange
+* 79e73cc modify: update member and completion status at README.md
+* dc31d8c add: lessons/
+* 6e285e9 Update member information and task completion status
+*   437c07d Merge pull request #1 from JorgenVerikov/latihan/soal
+|\  
+| * e33e058 -Mengganti nama folder -Mencetak nama kelompok -Menambah suhu -Menambah nilai
+| * 9893478 -Ganti nama folder -Menambahkan cetak nama kelompok -Menambahkan suhu -Menambahkan nilai
+| * 1e402e1 -Mengubah suhu -Mengubah nilai
+| * 9c96c57 -Suhu -Nilai
+|/  
+* 842a2e9 Complete Directory
+* 0477112 Update README with team members and tasks
+* 8ba81f9 Initial commit
