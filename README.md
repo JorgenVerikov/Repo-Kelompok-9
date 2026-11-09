@@ -2,7 +2,7 @@
 
 ## Nama Anggota & NIM
 - Anggota 1: [Nama] ([NIM])
-- Anggota 2: [Nama] ([NIM])
+- Anggota 2: Mutia Risnawati (2603069)
 - Anggota 3: Aditya Setiawan (2606792)
 - Anggota 4: Nabila Al-Abidah (2609130)
 - Anggota 5: Faza Tammy Amanullah (2607237)
