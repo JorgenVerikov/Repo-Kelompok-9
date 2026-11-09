@@ -5,7 +5,7 @@
 - Anggota 2: Mutia Risnawati (2603069)
 - Anggota 3: Aditya Setiawan (2606792)
 - Anggota 4: Nabila Al-Abidah (2609130)
-- Anggota 5: Tubagus Muhammad Ivan Syah Winatakusuma (2602894)
+- Anggota 5: Tubagus Muhammad Ivan Syah Winata Kusuma (2602894)
 
 ## Daftar Folder
 - `lessons/01-print/`
