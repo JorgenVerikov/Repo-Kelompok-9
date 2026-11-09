@@ -3,7 +3,7 @@
 ## Nama Anggota & NIM
 - Anggota 1: [Nama] ([NIM])
 - Anggota 2: [Nama] ([NIM])
-- Anggota 3: [Nama] ([NIM])
+- Anggota 3: Aditya Setiawan (2606792)
 - Anggota 4: Nabila Al-Abidah (2609130)
 - Anggota 5: Faza Tammy Amanullah (2607237)
 
@@ -19,7 +19,7 @@
 |----|---------|-------|--------|
 | 1 | Anggota 1 | Repo, README.md, main.py, .gitignore, koordinasi, merge Pull Request | Selesai |
 | 2 | Anggota 2 | lessons/01-print/ | Belum |
-| 3 | Anggota 3 | lessons/02-if-else/ | Belum |
+| 3 | Anggota 3 | lessons/02-if-else/ | Selesai |
 | 4 | Anggota 4 | latihan/soal.py | Selesai |
 | 5 | Anggota 5 | tests/test_main.py, docs/laporan.md, isi docs/bukti/ | Belum |
 
