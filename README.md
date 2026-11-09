@@ -1,11 +1,11 @@
 # Kelompok 9
 
 ## Nama Anggota & NIM
-- Anggota 1: [Nama] ([NIM])
-- Anggota 2: [Nama] ([NIM])
+- Anggota 1: Faza Tammy Amanullah (2607237)
+- Anggota 2: 
 - Anggota 3: Aditya Setiawan (2606792)
 - Anggota 4: Nabila Al-Abidah (2609130)
-- Anggota 5: Faza Tammy Amanullah (2607237)
+- Anggota 5: 
 
 ## Daftar Folder
 - `lessons/01-print/`
