@@ -21,7 +21,7 @@
 | 2 | Anggota 2 | lessons/01-print/ | Selesai |
 | 3 | Anggota 3 | lessons/02-if-else/ | Selesai |
 | 4 | Anggota 4 | latihan/soal.py | Selesai |
-| 5 | Anggota 5 | tests/test_main.py, docs/laporan.md, isi docs/bukti/ | Belum |
+| 5 | Anggota 5 | tests/test_main.py, docs/laporan.md, isi docs/bukti/ | Selesai |
 
 ## Cara Menjalankan
 1. Pastikan Python terinstal.
